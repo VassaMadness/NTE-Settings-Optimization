@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\NTESettings\NTESettings\obj\Debug\NTESettings.Resources.resources
+C:\Users\ASUS\source\repos\NTESettings\NTESettings\obj\Debug\NTESettings.vbproj.GenerateResource.Cache
+C:\Users\ASUS\source\repos\NTESettings\NTESettings\bin\Debug\NTESettings.exe
+C:\Users\ASUS\source\repos\NTESettings\NTESettings\bin\Debug\NTESettings.pdb
+C:\Users\ASUS\source\repos\NTESettings\NTESettings\bin\Debug\NTESettings.xml
+C:\Users\ASUS\source\repos\NTESettings\NTESettings\obj\Debug\NTESettings.exe
+C:\Users\ASUS\source\repos\NTESettings\NTESettings\obj\Debug\NTESettings.xml
+C:\Users\ASUS\source\repos\NTESettings\NTESettings\obj\Debug\NTESettings.pdb
+C:\Users\ASUS\source\repos\NTESettings\NTESettings\obj\Debug\NTESettings.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\NTESettings\NTESettings\obj\Debug\NTESettings.Form1.resources
+C:\Users\ASUS\source\repos\NTESettings\NTESettings\obj\Debug\NTESettings.vbproj.CoreCompileInputs.cache
